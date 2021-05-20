@@ -1,0 +1,12 @@
+{"login": {"head":{"app_key":"i_bmecg","v":"1.3.7"},"body":{"code":637425,"phoneNumber":"18681015703"}},
+  "mobile_login": {"head":{"app_key":"i_bmecg","v":"1.3.7"},"body":{"phoneNumber":"18681015703"}},
+  "szlist": {"head":{"app_key":"i_bmecg","v":"1.3.7"},"body":{"phoneNumber":"18681015703"}},
+  "logcoureinf": {"weight":"70","height":"180","nickname":"萌萌","rh":"阴性 -","birthday":"19921224","head":{"method":"client_credentials","session":"SgerDAboaOSD8gHPIF_fG_z-_WSNTE7Z9ljLzr6pDNEz246QZAzoz61-wQP35gVvnaA6l3tvK0iDcfbffP-IL1oA0mxzS_uTzPwsqveiLotEygjz2AfJVv51raZdbqhkEJBmFmoBMhxupCgtHGeaNo2bVY_KHCjq8hzO15_ox_0=","app_key":"i_bmecg","v":"1.3.7"},"abo":"O","sex":"女"},
+  "locoursetype": {"pics":[],"visitingRecordMedications":[],"illnessDescription":"接口之王","diagnosticResult":"看那兰花为绿叶","head":{"app_key":"i_bmecg","session":"SgerDAboaOSD8gHPIF_fG_z-_WSNTE7Z9ljLzr6pDNEz246QZAzoz61-wQP35gVvnaA6l3tvK0iDcfbffP-IL1oA0mxzS_uTzPwsqveiLotEygjz2AfJVv51raZdbqhkEJBmFmoBMhxupCgtHGeaNo2bVY_KHCjq8hzO15_ox_0="},"department":"内科","visitingInstitution":"宝安医院","visitingTime":"2021-04-26 00:00:00"},
+  "locourseList": {"smoke":"从不","meatVegetable":"荤食为主","defecation":"每日一次","id":"33","drink":"从不","threeMeals":"是","head":{"app_key":"i_bmecg","session":"SgerDAboaOSD8gHPIF_fG_z-_WSNTE7Z9ljLzr6pDNEz246QZAzoz61-wQP35gVvnaA6l3tvK0iDcfbffP-IL1oA0mxzS_uTzPwsqveiLotEygjz2AfJVv51raZdbqhkEJBmFmoBMhxupCgtHGeaNo2bVY_KHCjq8hzO15_ox_0="},"taste":"饮食偏咸"},
+  "getcourseinfo": {"head":{"app_key":"i_bmecg","session":"SgerDAboaOSD8gHPIF_fG_z-_WSNTE7Z9ljLzr6pDNEz246QZAzoz61-wQP35gVvnaA6l3tvK0iDcfbffP-IL1oA0mxzS_uTzPwsqveiLotEygjz2AfJVv51raZdbqhkEJBmFmoBMhxupCgtHGeaNo2bVY_KHCjq8hzO15_ox_0="},"contactName":"刘斌","contactPhone":"18681015703"},
+  "getmedialist": {"head":{"app_key":"i_bmecg","v":"1.3.7"},"body":{"phoneNumber":"18681015703"}},
+  "follow": {"head":{"app_key":"i_bmecg","v":"1.3.7"},"body":{"phoneNumber":"18681015703"}},
+  "shop": {"head":{"app_key":"i_bmecg","v":"1.3.71"},"body":{"phoneNumber":"18681015703"}},
+  "buy": {"head":{"app_key":"i_bmecg","v":"1.3.7"},"body":{"phoneNumber":"18681015703"}}
+}
